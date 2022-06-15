@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DecisionEngine.Domain
 {
-    public class Model
+    public class BikeModel
     {
         public string Manufacturer  { get; set; }
         public string ModelName { get; set; }
